@@ -15,7 +15,7 @@ I'm Arvind Singh, a B.Tech CS student with a specialization in AI/ML. I’m pass
 - 💬Ask me about: Anything related to AI/ML, especially if you need advice or tips on projects!
 - 📫How to reach me: singharvind1352@gmail.com | LinkedIn Profile-(https://www.linkedin.com/in/arvind-singh-881b02219/)
 - 🌳https://linktr.ee/Arvind13s
-- 😄Pronouns: [Your Pronouns]
+- 😄Pronouns: [Arsh]
 - ⚡ Fun fact: I have a knack for solving Rubik's Cubes—fastest time is under 30 seconds!
 
 
