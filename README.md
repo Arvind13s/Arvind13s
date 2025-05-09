@@ -36,15 +36,6 @@
 
 ---
 
-### 🚀 Certifications & Achievements
-
-- 🧠 IBM Workshop on Deep Learning  
-- 🏆 SIEMENS TechForSociety Hackathon Participant  
-- 🎨 IBM ICE DAY Poster Competition  
-- 📜 MongoDB with Node.js & Java – Certified
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
