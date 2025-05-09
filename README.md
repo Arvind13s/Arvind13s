@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Arvind13s/Arvind13s/blob/main/banner.gif?raw=true" alt="Arvind Singh Intro Banner" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Arvind Singh</h1>
 <p align="center">
   🎓 B.Tech CSE (AI & ML) @ GLA University | 💻 Developer | 🚀 Tech Enthusiast
