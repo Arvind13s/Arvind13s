@@ -1,38 +1,54 @@
 <h1 align="center">Hi 👋, I'm Arvind Singh</h1>
 <p align="center">
-  A passionate developer focused on Machine Learning, Deep Learning, and Full Stack Web & Mobile App Development.
+  🎓 B.Tech CSE (AI & ML) @ GLA University | 💻 Developer | 🚀 Tech Enthusiast
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) @ GLA University (2022–2026)
-- 💼 Intern @ Hindalco Industries (May–July 2024) – Worked in software dev, debugging, and L&D team collaboration
-- 🌱 Currently exploring: Deep Learning, Scalable Web Apps, and Production-ready ML Systems
-- 🤝 I love building projects that solve real-world problems and participating in hackathons
-- 📫 Reach me at: [singharvind1352@gmail.com](mailto:singharvind1352@gmail.com) • [LinkedIn](https://linkedin.com/in/arvind-singh-881b02219)
+- 🔭 I’m currently working on: ML models, deep learning projects, and full stack web/mobile apps  
+- 💼 Internship @ Hindalco Industries — focused on app development, testing, and debugging  
+- 🌱 Currently exploring: scalable ML systems and advanced MERN/Flutter workflows  
+- 🧠 I love solving real-world problems through code, and I actively participate in hackathons  
+- 📫 Reach me at: [singharvind1352@gmail.com](mailto:singharvind1352@gmail.com) | [LinkedIn](https://linkedin.com/in/arvind-singh-881b02219)
 
 ---
 
-### 🧠 Skills & Technologies
+### ⚡ Tech Stack
 
-- **Languages:** Python, Java, C, C++, Dart, JavaScript, SQL, XML  
-- **Frameworks:** ReactJS, Redux, NextJS, NodeJS, ExpressJS, Flutter  
-- **Databases:** MongoDB, SQL  
-- **Tools:** Git, GitHub, Android Studio, VS Code, DataGrip, Linux  
-- **Core Areas:** Machine Learning, Deep Learning (CNN), Full Stack Development, Mobile App Development
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-EF652A?style=for-the-badge&logo=xml&logoColor=white)
+
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🧪 Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based model to detect malaria in blood smear images | Python, TensorFlow |
-| 🌊 Oil Spill Detection | Detecting oil spills using satellite images (Sentinel/Landsat) | Python, CNN, RF |
-| [💬 Discussion Forum](https://github.com/Arvind13s) | MERN-based Q&A platform with role-based access | MERN Stack |
-| [✅ Taskcheck](https://github.com/Arvind13s/Taskcheck) | Task manager app built using Flutter & Firebase | Flutter, Firebase |
+| [🧪 Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based model to detect malaria from blood smear images | Python, TensorFlow |
+| 🌊 Oil Spill Detection | Deep Learning-based detection system for satellite images | Python, CNN, RF |
+| [💬 Discussion Forum](https://github.com/Arvind13s) | MERN stack Q&A app with role-based access control | React, Node.js, MongoDB |
+| [✅ Taskcheck](https://github.com/Arvind13s/Taskcheck) | Task manager built using Flutter + Firebase | Flutter, Firebase |
 
 ---
 
@@ -41,5 +57,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="Arvind's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind13s&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind13s&theme=tokyonight" alt="Arvind's GitHub streak stats" />
 </p>
