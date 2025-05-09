@@ -17,8 +17,8 @@
   - Python, TensorFlow, Flutter, Firebase, and full-stack dev!
 
 - 📫 How to reach me:
-  - 📧 **your.email@example.com**
-  - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+  - 📧 **singharvind1352@gmail.com**
+  - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/arvind-singh-881b02219/))
 
 ---
 
