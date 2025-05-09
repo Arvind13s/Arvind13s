@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:
   - 📧 **singharvind1352@gmail.com**
-  - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/arvind-singh-881b02219/))
+  - 💼 [LinkedIn](https://www.linkedin.com/in/arvind-singh-881b02219/)
 
 ---
 
