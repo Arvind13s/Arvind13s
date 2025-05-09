@@ -1,21 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arvind Singh</h1>
+<p align="center">
+  A passionate developer focused on Machine Learning, Flutter, and full-stack development.
+</p>
 
-<!--
-**Arvind13s/Arvind13s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-## Hi there 👋
+- 🌱 I’m currently working on: 
+  - `Malaria Detection Using CNN` – a deep learning model for medical imaging
+  - `Taskcheck` – a task management app using Flutter + Firebase
 
-I'm Arvind Singh, a B.Tech CS student with a specialization in AI/ML. I’m passionate about leveraging technology to solve real-world problems and always on the lookout for new challenges. Here’s a bit about me:
+- 🔭 I’m exploring:
+  - Advanced ML and AI tools
+  - Building scalable full-stack apps using MERN
 
-- 🔭I’m currently working on: Developing a machine learning model for predicting stock market trends.
-- 🌱I’m currently learning: Deep learning techniques and their applications in natural language processing.
-- 👯I’m looking to collaborate on: Open source AI/ML projects that have a positive social impact.
-- 🤔I’m looking for help with: Enhancing my understanding of reinforcement learning.
-- 💬Ask me about: Anything related to AI/ML, especially if you need advice or tips on projects!
-- 📫How to reach me: singharvind1352@gmail.com | LinkedIn Profile-(https://www.linkedin.com/in/arvind-singh-881b02219/)
-- 🌳https://linktr.ee/Arvind13s
-- 😄Pronouns: [Arsh]
-- ⚡ Fun fact: I have a knack for solving Rubik's Cubes—fastest time is under 30 seconds!
+- 💬 Ask me about:
+  - Python, TensorFlow, Flutter, Firebase, and full-stack dev!
 
+- 📫 How to reach me:
+  - 📧 **your.email@example.com**
+  - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="Arvind's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind13s&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based medical image classifier | Python, TensorFlow |
+| [Taskcheck](https://github.com/Arvind13s/Taskcheck) | Task manager built in Flutter | Flutter, Firebase |
+
+---
+
+### 📁 Repositories Worth Checking Out
+
+- 🔬 [ML Projects Collection](https://github.com/Arvind13s?tab=repositories&q=ml)
+- 📱 [Flutter App Builds](https://github.com/Arvind13s?tab=repositories&q=flutter)
