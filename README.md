@@ -64,5 +64,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="Arvind's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind13s&theme=tokyonight" alt="Arvind's GitHub streak stats" />
+  <img src=[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arvind13s&theme=tokyonight-duo)](https://git.io/streak-stats) />
 </p>
