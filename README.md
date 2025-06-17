@@ -61,7 +61,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="Arvind's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arvind13s&theme=tokyonight-duo" alt="GitHub Streak" />
 </p>
