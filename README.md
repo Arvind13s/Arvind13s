@@ -61,10 +61,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Arvind13s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/Arvind13s)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind13s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arvind13s&theme=tokyonight&hide_border=true)](https://github.com/Arvind13s)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind13s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/Arvind13s)
+
 </div>
