@@ -53,8 +53,8 @@
 |--------|-------------|-------|
 | [🧪 Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based model to detect malaria from blood smear images | Python, TensorFlow |
 | [🌊 Oil Spill Detection](https://github.com/Arvind13s/Oil-Spill-Detection-Using-Satellite-Images) | Deep Learning-based detection system for satellite images | Python, CNN, RF |
-| [💬 Discussion Forum](https://github.com/Arvind13s) | MERN stack Q&A app with role-based access control | React, Node.js, MongoDB |
-| [✅ Taskcheck](https://github.com/Arvind13s/Taskcheck) | Task manager built using Flutter + Firebase | Flutter, Firebase |
+| [💬 Chimera](https://github.com/Arvind13s/Chimera)) | an Agentic AI that lives in your terminal | autonomously creates 50-60s vertical videos with its own brain
+| [✅Automatic Interview Scheduling System](https://github.com/Arvind13s/interview-scheduler) |  backend REST API developed in Java Spring Boot that allows interviewers to set availability and candidates to book, manage, and reschedule interview slots.
 
 ---
 
