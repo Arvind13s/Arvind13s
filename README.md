@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: ML models, deep learning projects, and full stack web/mobile apps  
+- 🔭 I'm currently working on: ML models, deep learning projects, and full stack web/mobile apps  
 - 💼 Internship @ Hindalco Industries — focused on app development, testing, and debugging  
 - 🌱 Currently exploring: scalable ML systems and advanced MERN/Flutter workflows  
 - 🧠 I love solving real-world problems through code, and I actively participate in hackathons  
@@ -53,19 +53,21 @@
 |--------|-------------|-------|
 | [🧪 Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based model to detect malaria from blood smear images | Python, TensorFlow |
 | [🌊 Oil Spill Detection](https://github.com/Arvind13s/Oil-Spill-Detection-Using-Satellite-Images) | Deep Learning-based detection system for satellite images | Python, CNN, RF |
-| [💬 Chimera](https://github.com/Arvind13s/Chimera) | an Agentic AI that lives in your terminal | Python,MoviePy + FFmpeg, Llama 3 on Groq,Edge‑TTS
-| [✅Automatic Interview Scheduling System](https://github.com/Arvind13s/interview-scheduler) |  backend REST API developed in Java Spring Boot that allows interviewers to set availability and candidates to book, manage, and reschedule interview slots. | Java,Springboot, RestAPI
+| [💬 Chimera](https://github.com/Arvind13s/Chimera) | an Agentic AI that lives in your terminal | Python, MoviePy + FFmpeg, Llama 3 on Groq, Edge‑TTS |
+| [✅ Automatic Interview Scheduling System](https://github.com/Arvind13s/interview-scheduler) | Backend REST API developed in Java Spring Boot that allows interviewers to set availability | Java, Spring Boot |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
-  <br />
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Arvind13s&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind13s&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind13s&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
