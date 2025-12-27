@@ -53,8 +53,8 @@
 |--------|-------------|-------|
 | [🧪 Malaria Detection](https://github.com/Arvind13s/Malaria-Detection-Using-CNN) | CNN-based model to detect malaria from blood smear images | Python, TensorFlow |
 | [🌊 Oil Spill Detection](https://github.com/Arvind13s/Oil-Spill-Detection-Using-Satellite-Images) | Deep Learning-based detection system for satellite images | Python, CNN, RF |
-| [💬 Chimera](https://github.com/Arvind13s/Chimera)) | an Agentic AI that lives in your terminal | autonomously creates 50-60s vertical videos with its own brain
-| [✅Automatic Interview Scheduling System](https://github.com/Arvind13s/interview-scheduler) |  backend REST API developed in Java Spring Boot that allows interviewers to set availability and candidates to book, manage, and reschedule interview slots.
+| [💬 Chimera](https://github.com/Arvind13s/Chimera)) | an Agentic AI that lives in your terminal | Python,MoviePy + FFmpeg, Llama 3 on Groq,Edge‑TTS
+| [✅Automatic Interview Scheduling System](https://github.com/Arvind13s/interview-scheduler) |  backend REST API developed in Java Spring Boot that allows interviewers to set availability and candidates to book, manage, and reschedule interview slots. | Java,Springboot, RestAPI
 
 ---
 
