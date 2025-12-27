@@ -62,7 +62,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/Arvind13s)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvind13s&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Arvind13s)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arvind13s&theme=tokyonight&hide_border=true)](https://github.com/Arvind13s)
 
