@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Arvind13s/Arvind13s/blob/main/Video.gif?raw=true" alt="Arvind Singh Intro Banner" />
+  <!-- <img src="https://github.com/Arvind13s/Arvind13s/blob/main/Video.gif?raw=true" alt="Arvind Singh Intro Banner" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Arvind Singh</h1>
