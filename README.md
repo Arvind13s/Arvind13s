@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on: ML models, deep learning projects, and full stack web/mobile apps  
-- 💼 Internship @ Hindalco Industries — focused on app development, testing, and debugging  
-- 🌱 Currently exploring: scalable ML systems and advanced MERN/Flutter workflows  
+- 💼 Internship @ Hindalco Industries,IIT BHU, Ethara AI 
+- 🌱 Currently exploring: scalable ML systems and advanced ML Algorithms
 - 🧠 I love solving real-world problems through code, and I actively participate in hackathons  
 - 📫 Reach me at: [singharvind1352@gmail.com](mailto:singharvind1352@gmail.com) | [LinkedIn](https://linkedin.com/in/arvind-singh-881b02219)
 
